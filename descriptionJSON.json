@@ -1,0 +1,13 @@
+
+[
+{"name":"Duolingo","language":"english","format":"application"},
+
+{"name":"BBC learning English","language":"english","format":"WEB course"},
+
+{"name":"Pchelka","language":"russian","format":"printed"},
+
+{"name":"Snegozavr","language":"ukrainian","format":"printed"},
+
+{"name":"Agile testing","language":"english","format":"mobile version"}
+]
+

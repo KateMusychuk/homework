@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Description>
+<Application>
+ <name>Duolingo</name>
+ <language>English</language>
+ <format> mobile application</format>
+</Application>
+<Course>
+ <name>BBC learning English</name>
+ <language>English</language>
+ <format>web-site</format>
+</Course>
+<Magazine>
+ <name>Pchelka</name>
+ <language>Russian</language>
+ <format>printed</format>
+ </Magazine>
+<Book>
+ <name>Agile testing</name>
+ <language>Englisg</language>
+ <format>mobile version</format>
+</Book>
+<Literature>
+ <name>Snegozavr</name>
+ <language>Ukrainian</language>
+ <format>printed</format>
+</Literature>
+</Description>
